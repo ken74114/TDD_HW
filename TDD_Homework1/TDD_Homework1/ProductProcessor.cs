@@ -13,17 +13,17 @@ namespace TDD_Homework1
             get
             {
                 return new List<Product> {
-                    new Product { Id = 1, Cost = 2, Revenue = 11, SellPrice = 1 },
-                    new Product { Id = 2, Cost = 1, Revenue = 6, SellPrice = 2 },
-                    new Product { Id = 3, Cost = 3, Revenue = 7, SellPrice = 9 },
-                    new Product { Id = 4, Cost = 5, Revenue = 3, SellPrice = 5 },
-                    new Product { Id = 5, Cost = 6, Revenue = 4, SellPrice = 10 },
-                    new Product { Id = 6, Cost = 8, Revenue = 3, SellPrice = 6 },
-                    new Product { Id = 7, Cost = 4, Revenue = 1, SellPrice = 11},
-                    new Product { Id = 8, Cost = 7, Revenue = 5, SellPrice = 3 },
-                    new Product { Id = 9, Cost = 11, Revenue = 2, SellPrice = 8 },
-                    new Product { Id = 10, Cost = 9, Revenue = 8, SellPrice = 7 },
-                    new Product { Id = 11, Cost = 10, Revenue = 9, SellPrice = 4 },
+                    new Product { Id = 1, Cost = 1, Revenue = 11, SellPrice = 21 },
+                    new Product { Id = 2, Cost = 2, Revenue = 12, SellPrice = 22 },
+                    new Product { Id = 3, Cost = 3, Revenue = 13, SellPrice = 23 },
+                    new Product { Id = 4, Cost = 4, Revenue = 14, SellPrice = 24 },
+                    new Product { Id = 5, Cost = 5, Revenue = 15, SellPrice = 25 },
+                    new Product { Id = 6, Cost = 6, Revenue = 16, SellPrice = 26 },
+                    new Product { Id = 7, Cost = 7, Revenue = 17, SellPrice = 27},
+                    new Product { Id = 8, Cost = 8, Revenue = 18, SellPrice = 28 },
+                    new Product { Id = 9, Cost = 9, Revenue = 19, SellPrice = 29 },
+                    new Product { Id = 10, Cost = 10, Revenue = 20, SellPrice = 30 },
+                    new Product { Id = 11, Cost = 11, Revenue = 21, SellPrice = 31 },
                 };
             }
             
